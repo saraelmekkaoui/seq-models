@@ -1,4 +1,6 @@
-## Sequence models:
+## Sequence models
 LSTM
+
 Bi-LSTM
+
 Transformer
